@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 demostrate
 conmand
 holy
+=======
+demostrate
+>>>>>>> parent of 386eef0 (添加单词conmand)
